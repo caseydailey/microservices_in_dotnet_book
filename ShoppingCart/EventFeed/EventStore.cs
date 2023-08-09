@@ -6,5 +6,15 @@ public interface IEventStore
 
 public class EventStore : IEventStore
 {
-    // TODO
+    public void Raise(string eventName, object content)
+    {
+        //TODO...
+        var sequenceNumber = database.NextSequenceNumber();
+        database.Add(new EventStore(
+            sequenceNumber,
+            DateTimeOffset.UtcNow,
+            eventName,
+            content
+        ));
+    }
 }
