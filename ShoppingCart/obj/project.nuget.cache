@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "JTn74xKc7mRa5I/ZyifHUyRKp23VD+F5R49DrsR/MQhpGOLdFENJqyEocOQ8btOjlkajwGkQgsCsBoZTnUqdzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CaseyDailey\\Projects\\learning\\microservices_book\\code_along\\ShoppingCart\\ShoppingCart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.25\\microsoft.extensions.dependencymodel.3.1.25.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\microsoft.extensions.http.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.10\\microsoft.extensions.http.polly.7.0.10.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\microsoft.extensions.logging.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\polly\\7.2.4\\polly.7.2.4.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.diagnostics.diagnosticsource\\7.0.0\\system.diagnostics.diagnosticsource.7.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\CaseyDailey\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
